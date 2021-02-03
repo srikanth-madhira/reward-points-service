@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: com.srikanthmadhira.portfolio.pointsservice.integration.GetPointsDaoImplTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.018 s <<< FAILURE! - in com.srikanthmadhira.portfolio.pointsservice.integration.GetPointsDaoImplTests
+getAllSuccess  Time elapsed: 0.018 s  <<< ERROR!
+java.lang.UnsupportedOperationException
+	at com.srikanthmadhira.portfolio.pointsservice.integration.GetPointsDaoImplTests.getAllSuccess(GetPointsDaoImplTests.java:21)
+

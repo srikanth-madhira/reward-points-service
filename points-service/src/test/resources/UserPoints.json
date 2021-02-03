@@ -1,0 +1,60 @@
+[
+	{
+		"_id": {
+			"$oid": "601a35909e762c610e7b9ec0"
+		},
+		"accountId": {
+			"$numberLong": "1"
+		},
+		"createTime": {
+			"$date": "2021-02-03T05:33:04.107Z"
+		},
+		"userName": "builder",
+		"points": {
+			"$numberLong": "500"
+		},
+		"_class": "com.srikanthmadhira.portfolio.pointsservice.model.Points"
+	},
+	{
+		"_id": {
+			"$oid": "601a397cdbc8847e381a3876"
+		},
+		"accountId": {
+			"$numberLong": "1"
+		},
+		"createTime": {
+			"$date": "2021-02-03T05:49:48.020Z"
+		},
+		"userName": "builder",
+		"points": 100,
+		"_class": "com.srikanthmadhira.portfolio.pointsservice.model.Points"
+	},
+	{
+		"_id": {
+			"$oid": "601a397fdbc8847e381a3877"
+		},
+		"accountId": {
+			"$numberLong": "1"
+		},
+		"createTime": {
+			"$date": "2021-02-03T05:49:51.791Z"
+		},
+		"userName": "builder",
+		"points": 1000,
+		"_class": "com.srikanthmadhira.portfolio.pointsservice.model.Points"
+	},
+	{
+		"_id": {
+			"$oid": "601acd247ac8d57843526aec"
+		},
+		"accountId": {
+			"$numberLong": "0"
+		},
+		"createTime": {
+			"$date": "2021-02-03T16:19:48.757Z"
+		},
+		"userName": "BobTheBuilder",
+		"points": 100,
+		"_class": "com.srikanthmadhira.portfolio.pointsservice.model.Points"
+	}
+]
